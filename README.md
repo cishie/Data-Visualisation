@@ -6,6 +6,6 @@ Les documents ci-dessous illustrent des travaux de structuration, d’analyse et
 
 ## Livrables
 
-- 📄 [Document de visualisation – version 1](TP_2 _Visualisation.pdf)
+- 📄 [Document de visualisation – version 1](TP_2_Visualisation.pdf)
 - 📄 [Document de visualisation – version 2](TP_3.pdf)
 
